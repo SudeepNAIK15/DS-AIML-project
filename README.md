@@ -1,1 +1,1 @@
-# Data-Science-project
+# DataScience-AIML-project
